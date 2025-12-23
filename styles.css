@@ -1,18 +1,9 @@
 /*  your css code here. If applicable */
-body{
+
+.grid-container{
 	display:flex;
 	justify-content:center;
-	align-items:center;
-	height:100vh;
 	flex-wrap:wrap;
-	
-}
-.grid-container{
-	/* display:flex;
-	justify-content:center;
-	align-items:center;
-	height:100vh;
-	flex-wrap:wrap; */
 }
 .grid-item{
 	background-color:lightgray;
