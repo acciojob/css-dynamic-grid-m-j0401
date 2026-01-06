@@ -16,13 +16,13 @@
 	border-radius:5px;
 	font-size:40px;
 }
-/* @media screen and(max-width:100px)
+@media screen and(max-width:600px)
 {
 	.grid-container{
 		display:grid;
 	grid-template-columns:repeat(3,1fr);
-	grid-template-rows:repeat(3,1fr);
-	gap:2px;
+	grid-template-rows:auto;
+	gap:10px;
 	}
 }
- */
+
